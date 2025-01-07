@@ -24,7 +24,6 @@
     Se você busca um profissional comprometido e focado em resultados para sua equipe, estou pronto para 
     colaborar e contribuir com soluções que fazem a diferença. <strong>Vamos trabalhar juntos?</strong> 🚀
 </p>
-<br/>
 
 
 <!-- Redes Sociais -->
