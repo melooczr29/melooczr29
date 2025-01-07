@@ -1,47 +1,84 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">About me</h1></summary>
-</div>
 <!-- Presentation -->
+<h1>Antonio Cesar | Desenvolvedor Full Stack</h1>
+
+<h2>Sobre mim</h2>
 <p>
-  Hi 👋, I'm Antonio Cesar ! 
-
-  - 🌱I am currently a student at ESPM doing information systems
-
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+    Olá! Sou Antonio Cesar, Desenvolvedor Full Stack em formação em 
+    <strong>Sistemas de Informação pela ESPM São Paulo</strong>. Minha paixão é transformar desafios em 
+    soluções práticas e funcionais, entregando resultados que fazem a diferença.
 </p>
-<!-- Dropdown menu -->
-<details>
-  <summary>👨‍💻 More about me</summary>
 
-  - 💬I'm 20 years old, I currently live in Brazil. I am fluent in English and have experience with SQL, Python, Java, Data Analysis, Data Visualization and Machine Learning.
+<p>
+    Com domínio de <strong>Java</strong>, <strong>JavaScript</strong>, <strong>CSS</strong>, 
+    <strong>HTML</strong> e <strong>MySQL</strong>, desenvolvo aplicações completas, desde interfaces 
+    modernas e intuitivas até back-ends eficientes. Além disso, possuo habilidades em 
+    <strong>Tableau</strong>, que me permitem explorar e apresentar dados de forma estratégica e impactante.
+</p>
 
-  - 🥋I've been a judoka for over 14 years with countless stories and experiences...I like traveling, I love watching movies and playing games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \O/
-</details>
+<p>
+    Minha abordagem objetiva me ajuda a enfrentar problemas de maneira direta e eficiente, sempre com 
+    o objetivo de alçar novos voos e superar expectativas.
+</p>
+
+<p>
+    Se você busca um profissional comprometido e focado em resultados para sua equipe, estou pronto para 
+    colaborar e contribuir com soluções que fazem a diferença. <strong>Vamos trabalhar juntos?</strong> 🚀
+</p>
+<br/>
 
 
-<!-- Links -->
+<!-- Redes Sociais -->
+<div>
+  <h2>🌐 Redes Sociais</h2>
+  <a href="https://www.linkedin.com/in/antonio-cesar-3653b6265/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/seuusuario/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+</div>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-cesar-3653b6265/)
+<!-- GitHub Stats & Top Languages -->
+<div>
+  <h2>📊 GitHub Stats</h2>
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=melooczr29&show_icons=true&theme=tokyonight" alt="Antonio Cesar's GitHub Stats">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melooczr29&layout=compact&theme=tokyonight" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=melooczr29&show_icons=true&theme=gotham)
+## 🔥 Linguagens de Programação e Ferramentas
+<div>
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40" />
+</div>
 
 
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    
-  </div>
+
+
+
+
+
   
 
 
