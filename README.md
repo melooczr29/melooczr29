@@ -58,6 +58,9 @@ Estou em busca de oportunidades para aplicar meus conhecimentos e crescer profis
 
 *   **Auxiliar de Segurança** - IBM (Igreja Batista do Morumbi) | 2022 – 2024
     *   Responsável pela segurança, monitoramento e garantia de um ambiente organizado, demonstrando habilidades de responsabilidade e resolução de problemas.
+    *   **Assistent administrative inter** - Lectra  | 2024 – 2025
+    *   Responsável  na parte de fasilitis e RH
+
 
 ## 🌐 Redes Sociais
 <div style= "display: inline_block" >
